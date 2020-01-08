@@ -1,0 +1,91 @@
+html, body {
+    margin: 0 auto;
+    padding: 0px;
+    background-color:white;
+    font-family: 'PT Sans Narrow', sans-serif;
+} 
+
+header, .projects, .aboutme, .skills, footer, .experience{
+  text-align: center;
+  float: center;
+  width: 100%;
+  padding: 10px;
+}
+
+h1{
+  height:auto;
+}
+
+#welcome{
+  font-size:45px;
+}
+
+.myname{
+  float:left;
+  text-decoration:none;
+  color:white;
+  font-size:25px;
+}
+
+.nav{
+  float:right;
+  word-spacing:20px;
+  font-size: 20px; 
+}
+
+header{
+  height: 45px;
+  background-color:black;
+}
+ 
+.aboutme, .experience{
+  height: auto;
+  padding-top:10px; 
+}
+
+.quiztext,.experience{
+  letter-spacing: 2px;
+  word-spacing:2px;
+  font-size:20px;
+}
+
+footer{
+  height: 60px;
+  font-size:15px;
+  color:white;
+  background-color:black;
+  text-align:center;
+}
+
+.myLife{
+  letter-spacing: 1px;
+  word-spacing: 2px;
+  margin:50px;
+  font-size:23px;
+}
+
+a{
+  color: rgb(35, 187, 192);
+  text-decoration:none;
+}
+
+.links{
+  text-align:center;
+  display: inline;
+  word-spacing: 60px;
+  font-size:25px;
+}
+
+.starWars{
+  max-width:65%; 
+}
+
+.quizapplink{
+  font-size:20px;
+}
+
+.hamburger {
+  float:right;
+}
+
+
